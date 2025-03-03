@@ -1,0 +1,1012 @@
+{
+    "01": {
+        "name": "Ain",
+        "mentions": 1719,
+        "sentiment_distribution": {
+            "positive": 391,
+            "neutral": 1090,
+            "negative": 238
+        },
+        "avg_sentiment": 0.009809468055678644
+    },
+    "02": {
+        "name": "Aisne",
+        "mentions": 483,
+        "sentiment_distribution": {
+            "positive": 90,
+            "neutral": 357,
+            "negative": 36
+        },
+        "avg_sentiment": 0.042955333679386455
+    },
+    "03": {
+        "name": "Allier",
+        "mentions": 3999,
+        "sentiment_distribution": {
+            "positive": 756,
+            "neutral": 2883,
+            "negative": 360
+        },
+        "avg_sentiment": 0.023195975463155456
+    },
+    "04": {
+        "name": "Alpes-de-Haute-Provence",
+        "mentions": 76,
+        "sentiment_distribution": {
+            "positive": 16,
+            "neutral": 54,
+            "negative": 6
+        },
+        "avg_sentiment": 0.03496453366658666
+    },
+    "05": {
+        "name": "Hautes-Alpes",
+        "mentions": 207,
+        "sentiment_distribution": {
+            "positive": 43,
+            "neutral": 146,
+            "negative": 18
+        },
+        "avg_sentiment": 0.03915267422811119
+    },
+    "06": {
+        "name": "Alpes-Maritimes",
+        "mentions": 646,
+        "sentiment_distribution": {
+            "positive": 197,
+            "neutral": 400,
+            "negative": 49
+        },
+        "avg_sentiment": 0.08623455013801852
+    },
+    "07": {
+        "name": "Ardèche",
+        "mentions": 1537,
+        "sentiment_distribution": {
+            "positive": 343,
+            "neutral": 1100,
+            "negative": 94
+        },
+        "avg_sentiment": 0.05317199132027791
+    },
+    "08": {
+        "name": "Ardennes",
+        "mentions": 1340,
+        "sentiment_distribution": {
+            "positive": 279,
+            "neutral": 955,
+            "negative": 106
+        },
+        "avg_sentiment": 0.046220428469885305
+    },
+    "09": {
+        "name": "Ariège",
+        "mentions": 816,
+        "sentiment_distribution": {
+            "positive": 149,
+            "neutral": 622,
+            "negative": 45
+        },
+        "avg_sentiment": 0.040913397514888754
+    },
+    "10": {
+        "name": "Aube",
+        "mentions": 2256,
+        "sentiment_distribution": {
+            "positive": 504,
+            "neutral": 1536,
+            "negative": 216
+        },
+        "avg_sentiment": 0.03142547791026284
+    },
+    "11": {
+        "name": "Aude",
+        "mentions": 851,
+        "sentiment_distribution": {
+            "positive": 198,
+            "neutral": 581,
+            "negative": 72
+        },
+        "avg_sentiment": 0.0377076271951139
+    },
+    "12": {
+        "name": "Aveyron",
+        "mentions": 701,
+        "sentiment_distribution": {
+            "positive": 147,
+            "neutral": 508,
+            "negative": 46
+        },
+        "avg_sentiment": 0.04572840615975788
+    },
+    "13": {
+        "name": "Bouches-du-Rhône",
+        "mentions": 721,
+        "sentiment_distribution": {
+            "positive": 146,
+            "neutral": 495,
+            "negative": 80
+        },
+        "avg_sentiment": 0.012756071934986105
+    },
+    "14": {
+        "name": "Calvados",
+        "mentions": 679,
+        "sentiment_distribution": {
+            "positive": 154,
+            "neutral": 468,
+            "negative": 57
+        },
+        "avg_sentiment": 0.04745711897554077
+    },
+    "15": {
+        "name": "Cantal",
+        "mentions": 1063,
+        "sentiment_distribution": {
+            "positive": 192,
+            "neutral": 814,
+            "negative": 57
+        },
+        "avg_sentiment": 0.040502807429494726
+    },
+    "16": {
+        "name": "Charente",
+        "mentions": 1017,
+        "sentiment_distribution": {
+            "positive": 200,
+            "neutral": 759,
+            "negative": 58
+        },
+        "avg_sentiment": 0.04279943310327889
+    },
+    "17": {
+        "name": "Charente-Maritime",
+        "mentions": 267,
+        "sentiment_distribution": {
+            "positive": 57,
+            "neutral": 194,
+            "negative": 16
+        },
+        "avg_sentiment": 0.05154919581476232
+    },
+    "18": {
+        "name": "Cher",
+        "mentions": 149239,
+        "sentiment_distribution": {
+            "positive": 32369,
+            "neutral": 105037,
+            "negative": 11833
+        },
+        "avg_sentiment": 0.03819713950933938
+    },
+    "19": {
+        "name": "Corrèze",
+        "mentions": 861,
+        "sentiment_distribution": {
+            "positive": 166,
+            "neutral": 642,
+            "negative": 53
+        },
+        "avg_sentiment": 0.04429177885830261
+    },
+    "21": {
+        "name": "Côte-d'Or",
+        "mentions": 70,
+        "sentiment_distribution": {
+            "positive": 25,
+            "neutral": 42,
+            "negative": 3
+        },
+        "avg_sentiment": 0.12692800453514738
+    },
+    "22": {
+        "name": "Côtes-d'Armor",
+        "mentions": 59,
+        "sentiment_distribution": {
+            "positive": 16,
+            "neutral": 41,
+            "negative": 2
+        },
+        "avg_sentiment": 0.09236183225216127
+    },
+    "23": {
+        "name": "Creuse",
+        "mentions": 10222,
+        "sentiment_distribution": {
+            "positive": 2089,
+            "neutral": 7240,
+            "negative": 893
+        },
+        "avg_sentiment": 0.031600088353693954
+    },
+    "24": {
+        "name": "Dordogne",
+        "mentions": 1167,
+        "sentiment_distribution": {
+            "positive": 316,
+            "neutral": 777,
+            "negative": 74
+        },
+        "avg_sentiment": 0.06810782366043745
+    },
+    "25": {
+        "name": "Doubs",
+        "mentions": 703,
+        "sentiment_distribution": {
+            "positive": 113,
+            "neutral": 545,
+            "negative": 45
+        },
+        "avg_sentiment": 0.031612461331855586
+    },
+    "26": {
+        "name": "Drôme",
+        "mentions": 899,
+        "sentiment_distribution": {
+            "positive": 169,
+            "neutral": 660,
+            "negative": 70
+        },
+        "avg_sentiment": 0.03355182589422906
+    },
+    "27": {
+        "name": "Eure",
+        "mentions": 793,
+        "sentiment_distribution": {
+            "positive": 136,
+            "neutral": 601,
+            "negative": 56
+        },
+        "avg_sentiment": 0.03130833472042223
+    },
+    "28": {
+        "name": "Eure-et-Loir",
+        "mentions": 128,
+        "sentiment_distribution": {
+            "positive": 29,
+            "neutral": 89,
+            "negative": 10
+        },
+        "avg_sentiment": 0.06271118483451071
+    },
+    "29": {
+        "name": "Finistère",
+        "mentions": 1400,
+        "sentiment_distribution": {
+            "positive": 276,
+            "neutral": 1038,
+            "negative": 86
+        },
+        "avg_sentiment": 0.046141212137812776
+    },
+    "2A": {
+        "name": "Corse-du-Sud",
+        "mentions": 49,
+        "sentiment_distribution": {
+            "positive": 6,
+            "neutral": 39,
+            "negative": 4
+        },
+        "avg_sentiment": 0.0015458275662357302
+    },
+    "2B": {
+        "name": "Haute-Corse",
+        "mentions": 71,
+        "sentiment_distribution": {
+            "positive": 10,
+            "neutral": 55,
+            "negative": 6
+        },
+        "avg_sentiment": 0.014824129964975034
+    },
+    "30": {
+        "name": "Gard",
+        "mentions": 891,
+        "sentiment_distribution": {
+            "positive": 220,
+            "neutral": 592,
+            "negative": 79
+        },
+        "avg_sentiment": 0.046437680259497884
+    },
+    "31": {
+        "name": "Haute-Garonne",
+        "mentions": 480,
+        "sentiment_distribution": {
+            "positive": 83,
+            "neutral": 359,
+            "negative": 38
+        },
+        "avg_sentiment": 0.026562700969304943
+    },
+    "32": {
+        "name": "Gers",
+        "mentions": 612,
+        "sentiment_distribution": {
+            "positive": 120,
+            "neutral": 453,
+            "negative": 39
+        },
+        "avg_sentiment": 0.03943294238681899
+    },
+    "33": {
+        "name": "Gironde",
+        "mentions": 1221,
+        "sentiment_distribution": {
+            "positive": 221,
+            "neutral": 886,
+            "negative": 114
+        },
+        "avg_sentiment": 0.01437134110024248
+    },
+    "34": {
+        "name": "Hérault",
+        "mentions": 900,
+        "sentiment_distribution": {
+            "positive": 164,
+            "neutral": 662,
+            "negative": 74
+        },
+        "avg_sentiment": 0.028193801324420363
+    },
+    "35": {
+        "name": "Ille-et-Vilaine",
+        "mentions": 362,
+        "sentiment_distribution": {
+            "positive": 68,
+            "neutral": 263,
+            "negative": 31
+        },
+        "avg_sentiment": 0.028542599516120325
+    },
+    "36": {
+        "name": "Indre",
+        "mentions": 501,
+        "sentiment_distribution": {
+            "positive": 94,
+            "neutral": 369,
+            "negative": 38
+        },
+        "avg_sentiment": 0.03163988186877675
+    },
+    "37": {
+        "name": "Indre-et-Loire",
+        "mentions": 164,
+        "sentiment_distribution": {
+            "positive": 34,
+            "neutral": 116,
+            "negative": 14
+        },
+        "avg_sentiment": 0.029914305193391093
+    },
+    "38": {
+        "name": "Isère",
+        "mentions": 1601,
+        "sentiment_distribution": {
+            "positive": 321,
+            "neutral": 1142,
+            "negative": 138
+        },
+        "avg_sentiment": 0.030102135784543613
+    },
+    "39": {
+        "name": "Jura",
+        "mentions": 1752,
+        "sentiment_distribution": {
+            "positive": 406,
+            "neutral": 1263,
+            "negative": 83
+        },
+        "avg_sentiment": 0.06770313514410287
+    },
+    "40": {
+        "name": "Landes",
+        "mentions": 2008,
+        "sentiment_distribution": {
+            "positive": 395,
+            "neutral": 1450,
+            "negative": 163
+        },
+        "avg_sentiment": 0.03107030672248447
+    },
+    "41": {
+        "name": "Loir-et-Cher",
+        "mentions": 170,
+        "sentiment_distribution": {
+            "positive": 29,
+            "neutral": 126,
+            "negative": 15
+        },
+        "avg_sentiment": 0.027342899682154493
+    },
+    "42": {
+        "name": "Loire",
+        "mentions": 6826,
+        "sentiment_distribution": {
+            "positive": 1524,
+            "neutral": 4838,
+            "negative": 464
+        },
+        "avg_sentiment": 0.04922234876400654
+    },
+    "43": {
+        "name": "Haute-Loire",
+        "mentions": 252,
+        "sentiment_distribution": {
+            "positive": 40,
+            "neutral": 188,
+            "negative": 24
+        },
+        "avg_sentiment": 0.011342071178380703
+    },
+    "44": {
+        "name": "Loire-Atlantique",
+        "mentions": 744,
+        "sentiment_distribution": {
+            "positive": 131,
+            "neutral": 542,
+            "negative": 71
+        },
+        "avg_sentiment": 0.024792290446418456
+    },
+    "45": {
+        "name": "Loiret",
+        "mentions": 464,
+        "sentiment_distribution": {
+            "positive": 79,
+            "neutral": 342,
+            "negative": 43
+        },
+        "avg_sentiment": 0.018494962342627798
+    },
+    "46": {
+        "name": "Lot",
+        "mentions": 32764,
+        "sentiment_distribution": {
+            "positive": 13191,
+            "neutral": 16856,
+            "negative": 2717
+        },
+        "avg_sentiment": 0.0838938565255474
+    },
+    "47": {
+        "name": "Lot-et-Garonne",
+        "mentions": 187,
+        "sentiment_distribution": {
+            "positive": 35,
+            "neutral": 133,
+            "negative": 19
+        },
+        "avg_sentiment": 0.02952213598938198
+    },
+    "48": {
+        "name": "Lozère",
+        "mentions": 879,
+        "sentiment_distribution": {
+            "positive": 144,
+            "neutral": 681,
+            "negative": 54
+        },
+        "avg_sentiment": 0.03034298400151642
+    },
+    "49": {
+        "name": "Maine-et-Loire",
+        "mentions": 202,
+        "sentiment_distribution": {
+            "positive": 40,
+            "neutral": 144,
+            "negative": 18
+        },
+        "avg_sentiment": 0.04377444874466841
+    },
+    "50": {
+        "name": "Manche",
+        "mentions": 6864,
+        "sentiment_distribution": {
+            "positive": 1434,
+            "neutral": 4802,
+            "negative": 628
+        },
+        "avg_sentiment": 0.030815173392163626
+    },
+    "51": {
+        "name": "Marne",
+        "mentions": 3227,
+        "sentiment_distribution": {
+            "positive": 661,
+            "neutral": 2290,
+            "negative": 276
+        },
+        "avg_sentiment": 0.03073671257201836
+    },
+    "52": {
+        "name": "Haute-Marne",
+        "mentions": 168,
+        "sentiment_distribution": {
+            "positive": 35,
+            "neutral": 120,
+            "negative": 13
+        },
+        "avg_sentiment": 0.042845523142610725
+    },
+    "53": {
+        "name": "Mayenne",
+        "mentions": 549,
+        "sentiment_distribution": {
+            "positive": 104,
+            "neutral": 408,
+            "negative": 37
+        },
+        "avg_sentiment": 0.036587127225189975
+    },
+    "54": {
+        "name": "Meurthe-et-Moselle",
+        "mentions": 243,
+        "sentiment_distribution": {
+            "positive": 51,
+            "neutral": 167,
+            "negative": 25
+        },
+        "avg_sentiment": 0.02568488061014573
+    },
+    "55": {
+        "name": "Meuse",
+        "mentions": 729,
+        "sentiment_distribution": {
+            "positive": 142,
+            "neutral": 541,
+            "negative": 46
+        },
+        "avg_sentiment": 0.03828011343314302
+    },
+    "56": {
+        "name": "Morbihan",
+        "mentions": 842,
+        "sentiment_distribution": {
+            "positive": 213,
+            "neutral": 583,
+            "negative": 46
+        },
+        "avg_sentiment": 0.06894430740737097
+    },
+    "57": {
+        "name": "Moselle",
+        "mentions": 2475,
+        "sentiment_distribution": {
+            "positive": 407,
+            "neutral": 1898,
+            "negative": 170
+        },
+        "avg_sentiment": 0.02489771147726784
+    },
+    "58": {
+        "name": "Nièvre",
+        "mentions": 303,
+        "sentiment_distribution": {
+            "positive": 40,
+            "neutral": 243,
+            "negative": 20
+        },
+        "avg_sentiment": 0.026256626283013545
+    },
+    "59": {
+        "name": "Nord",
+        "mentions": 49813,
+        "sentiment_distribution": {
+            "positive": 9919,
+            "neutral": 35978,
+            "negative": 3916
+        },
+        "avg_sentiment": 0.035697859907802346
+    },
+    "60": {
+        "name": "Oise",
+        "mentions": 2024,
+        "sentiment_distribution": {
+            "positive": 369,
+            "neutral": 1444,
+            "negative": 211
+        },
+        "avg_sentiment": 0.014878259141650328
+    },
+    "61": {
+        "name": "Orne",
+        "mentions": 396,
+        "sentiment_distribution": {
+            "positive": 100,
+            "neutral": 258,
+            "negative": 38
+        },
+        "avg_sentiment": 0.04088124485840226
+    },
+    "62": {
+        "name": "Pas-de-Calais",
+        "mentions": 1289,
+        "sentiment_distribution": {
+            "positive": 271,
+            "neutral": 923,
+            "negative": 95
+        },
+        "avg_sentiment": 0.03720364583869074
+    },
+    "63": {
+        "name": "Puy-de-Dôme",
+        "mentions": 236,
+        "sentiment_distribution": {
+            "positive": 42,
+            "neutral": 172,
+            "negative": 22
+        },
+        "avg_sentiment": 0.01812446291599316
+    },
+    "64": {
+        "name": "Pyrénées-Atlantiques",
+        "mentions": 170,
+        "sentiment_distribution": {
+            "positive": 35,
+            "neutral": 126,
+            "negative": 9
+        },
+        "avg_sentiment": 0.03604480959383338
+    },
+    "65": {
+        "name": "Hautes-Pyrénées",
+        "mentions": 118,
+        "sentiment_distribution": {
+            "positive": 26,
+            "neutral": 84,
+            "negative": 8
+        },
+        "avg_sentiment": 0.05080421344192532
+    },
+    "66": {
+        "name": "Pyrénées-Orientales",
+        "mentions": 217,
+        "sentiment_distribution": {
+            "positive": 43,
+            "neutral": 156,
+            "negative": 18
+        },
+        "avg_sentiment": 0.033670934739047066
+    },
+    "67": {
+        "name": "Bas-Rhin",
+        "mentions": 511,
+        "sentiment_distribution": {
+            "positive": 96,
+            "neutral": 370,
+            "negative": 45
+        },
+        "avg_sentiment": 0.013157772890121674
+    },
+    "68": {
+        "name": "Haut-Rhin",
+        "mentions": 493,
+        "sentiment_distribution": {
+            "positive": 99,
+            "neutral": 353,
+            "negative": 41
+        },
+        "avg_sentiment": 0.026420323427835773
+    },
+    "69": {
+        "name": "Rhône",
+        "mentions": 5051,
+        "sentiment_distribution": {
+            "positive": 1059,
+            "neutral": 3553,
+            "negative": 439
+        },
+        "avg_sentiment": 0.035069874631272854
+    },
+    "70": {
+        "name": "Haute-Saône",
+        "mentions": 160,
+        "sentiment_distribution": {
+            "positive": 34,
+            "neutral": 119,
+            "negative": 7
+        },
+        "avg_sentiment": 0.06859528318903317
+    },
+    "71": {
+        "name": "Saône-et-Loire",
+        "mentions": 168,
+        "sentiment_distribution": {
+            "positive": 34,
+            "neutral": 119,
+            "negative": 15
+        },
+        "avg_sentiment": 0.01772097774595649
+    },
+    "72": {
+        "name": "Sarthe",
+        "mentions": 629,
+        "sentiment_distribution": {
+            "positive": 101,
+            "neutral": 487,
+            "negative": 41
+        },
+        "avg_sentiment": 0.024774091693938634
+    },
+    "73": {
+        "name": "Savoie",
+        "mentions": 3705,
+        "sentiment_distribution": {
+            "positive": 787,
+            "neutral": 2689,
+            "negative": 229
+        },
+        "avg_sentiment": 0.055584206639802264
+    },
+    "74": {
+        "name": "Haute-Savoie",
+        "mentions": 824,
+        "sentiment_distribution": {
+            "positive": 171,
+            "neutral": 575,
+            "negative": 78
+        },
+        "avg_sentiment": 0.030353822289502407
+    },
+    "75": {
+        "name": "Paris",
+        "mentions": 183099,
+        "sentiment_distribution": {
+            "positive": 42357,
+            "neutral": 127048,
+            "negative": 13694
+        },
+        "avg_sentiment": 0.04654341030534855
+    },
+    "76": {
+        "name": "Seine-Maritime",
+        "mentions": 334,
+        "sentiment_distribution": {
+            "positive": 70,
+            "neutral": 228,
+            "negative": 36
+        },
+        "avg_sentiment": 0.008424310330259588
+    },
+    "77": {
+        "name": "Seine-et-Marne",
+        "mentions": 634,
+        "sentiment_distribution": {
+            "positive": 125,
+            "neutral": 442,
+            "negative": 67
+        },
+        "avg_sentiment": 0.021819173782350352
+    },
+    "78": {
+        "name": "Yvelines",
+        "mentions": 1681,
+        "sentiment_distribution": {
+            "positive": 361,
+            "neutral": 1171,
+            "negative": 149
+        },
+        "avg_sentiment": 0.029181228877558776
+    },
+    "79": {
+        "name": "Deux-Sèvres",
+        "mentions": 426,
+        "sentiment_distribution": {
+            "positive": 82,
+            "neutral": 302,
+            "negative": 42
+        },
+        "avg_sentiment": 0.012344190352553033
+    },
+    "80": {
+        "name": "Somme",
+        "mentions": 30738,
+        "sentiment_distribution": {
+            "positive": 6581,
+            "neutral": 21188,
+            "negative": 2969
+        },
+        "avg_sentiment": 0.029072960259341765
+    },
+    "81": {
+        "name": "Tarn",
+        "mentions": 790,
+        "sentiment_distribution": {
+            "positive": 155,
+            "neutral": 570,
+            "negative": 65
+        },
+        "avg_sentiment": 0.03438713652579095
+    },
+    "82": {
+        "name": "Tarn-et-Garonne",
+        "mentions": 118,
+        "sentiment_distribution": {
+            "positive": 15,
+            "neutral": 93,
+            "negative": 10
+        },
+        "avg_sentiment": 0.002794044845724629
+    },
+    "83": {
+        "name": "Var",
+        "mentions": 2601,
+        "sentiment_distribution": {
+            "positive": 517,
+            "neutral": 1866,
+            "negative": 218
+        },
+        "avg_sentiment": 0.03167980084367837
+    },
+    "84": {
+        "name": "Vaucluse",
+        "mentions": 714,
+        "sentiment_distribution": {
+            "positive": 159,
+            "neutral": 480,
+            "negative": 75
+        },
+        "avg_sentiment": 0.03089289163367169
+    },
+    "85": {
+        "name": "Vendée",
+        "mentions": 2166,
+        "sentiment_distribution": {
+            "positive": 429,
+            "neutral": 1602,
+            "negative": 135
+        },
+        "avg_sentiment": 0.043908098918578095
+    },
+    "86": {
+        "name": "Vienne",
+        "mentions": 12841,
+        "sentiment_distribution": {
+            "positive": 2844,
+            "neutral": 8793,
+            "negative": 1204
+        },
+        "avg_sentiment": 0.03304445572236672
+    },
+    "87": {
+        "name": "Haute-Vienne",
+        "mentions": 161,
+        "sentiment_distribution": {
+            "positive": 31,
+            "neutral": 116,
+            "negative": 14
+        },
+        "avg_sentiment": 0.024183982216471247
+    },
+    "88": {
+        "name": "Vosges",
+        "mentions": 1920,
+        "sentiment_distribution": {
+            "positive": 474,
+            "neutral": 1338,
+            "negative": 108
+        },
+        "avg_sentiment": 0.06872609515536766
+    },
+    "89": {
+        "name": "Yonne",
+        "mentions": 539,
+        "sentiment_distribution": {
+            "positive": 83,
+            "neutral": 421,
+            "negative": 35
+        },
+        "avg_sentiment": 0.03296983304274984
+    },
+    "90": {
+        "name": "Territoire de Belfort",
+        "mentions": 148,
+        "sentiment_distribution": {
+            "positive": 25,
+            "neutral": 111,
+            "negative": 12
+        },
+        "avg_sentiment": 0.02625096597136072
+    },
+    "91": {
+        "name": "Essonne",
+        "mentions": 1179,
+        "sentiment_distribution": {
+            "positive": 226,
+            "neutral": 839,
+            "negative": 114
+        },
+        "avg_sentiment": 0.02657351392004755
+    },
+    "92": {
+        "name": "Hauts-de-Seine",
+        "mentions": 1045,
+        "sentiment_distribution": {
+            "positive": 216,
+            "neutral": 703,
+            "negative": 126
+        },
+        "avg_sentiment": 0.012354566616835429
+    },
+    "93": {
+        "name": "Seine-Saint-Denis",
+        "mentions": 2118,
+        "sentiment_distribution": {
+            "positive": 410,
+            "neutral": 1470,
+            "negative": 238
+        },
+        "avg_sentiment": 0.017293933849284803
+    },
+    "94": {
+        "name": "Val-de-Marne",
+        "mentions": 607,
+        "sentiment_distribution": {
+            "positive": 147,
+            "neutral": 407,
+            "negative": 53
+        },
+        "avg_sentiment": 0.03627109174020082
+    },
+    "95": {
+        "name": "Val-d'Oise",
+        "mentions": 145,
+        "sentiment_distribution": {
+            "positive": 30,
+            "neutral": 99,
+            "negative": 16
+        },
+        "avg_sentiment": 0.01921545763463867
+    },
+    "971": {
+        "name": "Guadeloupe",
+        "mentions": 2140,
+        "sentiment_distribution": {
+            "positive": 427,
+            "neutral": 1529,
+            "negative": 184
+        },
+        "avg_sentiment": 0.031964947447428255
+    },
+    "972": {
+        "name": "Martinique",
+        "mentions": 1988,
+        "sentiment_distribution": {
+            "positive": 394,
+            "neutral": 1433,
+            "negative": 161
+        },
+        "avg_sentiment": 0.036814406849596325
+    },
+    "973": {
+        "name": "Guyane",
+        "mentions": 3300,
+        "sentiment_distribution": {
+            "positive": 547,
+            "neutral": 2531,
+            "negative": 222
+        },
+        "avg_sentiment": 0.029103019876627695
+    },
+    "974": {
+        "name": "La Réunion",
+        "mentions": 5114,
+        "sentiment_distribution": {
+            "positive": 1034,
+            "neutral": 3614,
+            "negative": 466
+        },
+        "avg_sentiment": 0.027497681678482756
+    },
+    "976": {
+        "name": "Mayotte",
+        "mentions": 3023,
+        "sentiment_distribution": {
+            "positive": 488,
+            "neutral": 2317,
+            "negative": 218
+        },
+        "avg_sentiment": 0.020686266313782953
+    }
+}

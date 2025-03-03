@@ -1,0 +1,6 @@
+france_comments_part*
+env/
+*.pyc
+logs
+*.zst
+*.csv

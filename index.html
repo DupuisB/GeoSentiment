@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Department Sentiment Analysis</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>French Department Sentiment Analysis</h1>
+        </header>
+        
+        <main>
+            <div id="map">
+                <div id="loading" class="loading">Loading map data...</div>
+            </div>
+            
+            <div id="info-panel">
+                <h2>Department Information</h2>
+                <div id="department-info">
+                    <p>Click on a department to see details</p>
+                </div>
+                <div id="legend">
+                    <h3>Sentiment Legend</h3>
+                    <div class="gradient-legend">
+                        <div class="gradient-bar"></div>
+                        <div class="gradient-labels">
+                            <span>Negative</span>
+                            <span>Neutral</span>
+                            <span>Positive</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Created with Leaflet.js | Data source: GeoSentiment Analysis</p>
+        </footer>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/shp-to-geojson.js"></script>
+    <script src="js/sentiment-data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
