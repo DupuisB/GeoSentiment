@@ -4,6 +4,9 @@ This was done as a (very) quick experiment to experiment a bit with user sentime
 This is an algorithm (integrated in a web static page) that tries to give an overall sentiment score to each department in France.
 This was done in a very basic way: by performing a sentiment analysis on all messages posted in r/France that includes the explicit mention of a departement, and then by averaging the scores.
 
+The web page can be seen here:
+https://dupuisb.github.io/GeoSentiment/
+
 # GeoSentiment Map Setup Instructions
 
 ## Quick Start
